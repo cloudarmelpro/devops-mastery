@@ -1,0 +1,76 @@
+# --- Claude Code (config locale) ---
+.claude/
+CLAUDE.local.md
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# --- Tests / lint / type ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
+# --- Secrets & env ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Sorties de TP (étudiants) ---
+rapport-*.json
+audit.log
+top-ips.txt
+nginx_logs
+nginx_logs.gz
+rendu-tp*.md
+INSTALLATION.md
+LIVRAISON.md
+
+# --- Sauvegardes ---
+*.bak
+*.backup
+backup-*.tar.gz
+backup-*.tar.gz.sha256
+
+# --- Divers ---
+node_modules/
+*.tmp
