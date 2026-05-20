@@ -29,7 +29,7 @@ Former des ingénieurs DevOps capables de :
 |---|---|---|
 | 01 | [Programming Language → Python](01-Programming-Language/Python/) | ✅ Disponible |
 | 02 | [Operating System → Linux Ubuntu](02-Operating-System/Linux-Ubuntu/) | ✅ Disponible |
-| 03 | Terminal Knowledge (Bash avancé) | 🔜 À venir |
+| 03 | [Terminal Knowledge (Bash avancé)](03-Terminal-Knowledge/) | ✅ Disponible |
 | 04 | Version Control (Git, GitHub) | 🔜 À venir |
 | 05 | Web Server (Nginx, Apache) | 🔜 À venir |
 | 06 | Containers (Docker, LXC) | 🔜 À venir |
